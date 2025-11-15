@@ -2,12 +2,13 @@
 Este lanzamiento lo hago porque hay algunas personas como yo que no saben usar ADB, así que aquí está ADBCTL. 
 Está hecho con ayuda de DeepSeek porque realmente no sé mucho sobre programar.
 
-Funciona en Linux, Windows y macOS, pero en Windows estoy teniendo problemas para que funcione. Aún no se si funciona en macOS.
+Funciona en Linux, Windows y macOS, pero en Windows estoy teniendo problemas para que funcione. Aún no se si funciona en MacOS.
 
 **Disclaimer:** ADBCTL es software de código abierto que usa muchos scripts proporcionados sin garantías. Eres responsable de cualquier cambio que realices en tu dispositivo.
 
 
-<img width="510" height="728" alt="Captura de pantalla de 2025-10-19 14-55-36" src="https://github.com/user-attachments/assets/90bd69e7-95d7-421a-9238-2bc1dc5df9ea" />
+<img width="438" height="679" alt="Captura de pantalla de 2025-11-15 12-03-01" src="https://github.com/user-attachments/assets/75c4ebdd-1596-4b5d-a29a-b45b250eb49d" />
+
 
 
 **Compatibilidad:** Android 5.0 y superior
@@ -23,14 +24,14 @@ Primero descarga adbctl desde [releases](https://github.com/Gatomichi12/ADBCTL-A
 Linux:
 
 1. Abre una terminal en la carpeta donde lo descargaste.
-2. Ejecuta: `unzip adbctl-linux-v0.2.0-beta.zip` (Descomprime el .zip)
+2. Ejecuta: `unzip adbctl-linux-v0.3.0-beta.zip` (Descomprime el .zip)
 3. Ejecuta: `chmod +x adbctl` (lo hace ejecutable)
 4. Ejecuta: `sudo mv adbctl /bin/` (lo instala para que lo puedas usar)
 5. Ejecuta: adbctl
 
 macOS: ¯|_(ツ)_|¯
 
-Windows: ¯|_(ツ)_|¯  Solo sé que necesitas Git Bash.
+Windows: ¯|_(ツ)_|¯  Solo sé que necesitas Git Bash o WSL.
 
 ¡Listo! Ya está lo puedes para usar.
 
